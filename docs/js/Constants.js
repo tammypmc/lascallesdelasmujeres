@@ -22,7 +22,9 @@ function Constants(){
         {id: 'peru', name: 'Perú', citiesList:[
           {id: 'lima', name: 'Lima', datos: {numLink:155,pcLink:58.1,numNoLink:112,pcNoLink:41.9,numMale:2881,numFemale:267,pcMale:91.5,pcFemale:8.5,totalNames:3148}, center: [ -77.02824, -12.04318]}]},
         {id: 'uruguay', name: 'Uruguay', citiesList:[
-          {id: 'montevideo', name: 'Montevideo', datos: {numLink:78,pcLink:47.9,numNoLink:85,pcNoLink:52.1,numMale:1875,numFemale:163,pcMale:92.0,pcFemale:8.0,totalNames:2038}, center: [ -56.18816, -34.90328]}]}
+          {id: 'montevideo', name: 'Montevideo', datos: {numLink:78,pcLink:47.9,numNoLink:85,pcNoLink:52.1,numMale:1875,numFemale:163,pcMale:92.0,pcFemale:8.0,totalNames:2038}, center: [ -56.18816, -34.90328]}]},
+          {id: 'costarica', name: 'Costa Rica', citiesList:[
+            {id: 'alajuela', name: 'Alajuela', datos: {numLink:12,pcLink:30.0,numNoLink:28,pcNoLink: 70.0, numMale :86, numFemale:40,pcMale:68.3,pcFemale:31.7,totalNames:126}, center: [-84.214987,10.014589]}]}
     ];
 
 
