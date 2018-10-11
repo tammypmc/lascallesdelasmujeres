@@ -1,71 +1,34 @@
 calle;calleClean;name;surname;fiabilidad;gender;wikipedia
-ITCR Santa Clara;ITCR Santa Clara;Santa;Clara;2;Female;https://es.wikipedia.org/wiki/Clara_de_Montefalco
-Calle Paola;Paola;Paola;;2;Female;
-Calle Arrieta Barrantes;Arrieta Barrantes;Arrieta;Barrantes;2;Female;
-Calle La Virgen;La Virgen;La;Virgen;2;Female;https://es.wikipedia.org/wiki/Virgen_Maria
+Calle Santa Elena;Santa Elena;Santa;Elena;2;Female;https://es.wikipedia.org/wiki/Helena_de_Constantinopla
+Calle La Paula;La Paula;La;Paula;2;Female;
 Calle Emerita;Emerita;Emerita;;2;Female;
 Calle Santa Bárbara;Santa Bárbara;Santa;Bárbara;2;Female;https://es.wikipedia.org/wiki/B%C3%A1rbara_(m%C3%A1rtir)
 Calle La Hilda;La Hilda;La;Hilda;2;Female;
-Calle Damaris;Damaris;Damaris;;2;Female;
-Calle La Eva;La Eva;La;Eva;2;Female;https://es.wikipedia.org/wiki/Eva
-Calle Alicia;Alicia;Alicia;;2;Female;
-Calle Rosalía;Rosalía;Rosalía;;2;Female;
-Calle Cora;Cora;Cora;;2;Female;
-Calle Concha;Concha;Concha;;2;Female;
-Calle Santa Lucia;Santa Lucia;Santa;Lucia;2;Female;https://es.wikipedia.org/wiki/Luc%C3%ADa_de_Siracusa
-Calle Mimi;Mimi;Mimi;;2;Female;
 Calle Guadalupe;Guadalupe;Guadalupe;;2;Female;
 Calle Mónica;Mónica;Mónica;;2;Female;
 Calle Santa Lucía;Santa Lucía;Santa;Lucía;2;Female;https://es.wikipedia.org/wiki/Luc%C3%ADa_de_Siracusa
 Villa Eli;Eli;Eli;;2;Female;
 El Carmen;El Carmen;El;Carmen;2;Female;
+Calle Grecia;Grecia;Grecia;;2;Female;
 Radial Santa Ana;Radial Santa Ana;Radial;Santa;2;Female;https://es.wikipedia.org/wiki/Ana_(madre_de_Mar%C3%ADa)
-Calle Santa Elena;Santa Elena;Santa;Elena;2;Female;https://es.wikipedia.org/wiki/Helena_de_Constantinopla
-Calle La Paula;La Paula;La;Paula;2;Female;
-Santa Eulalia- La Torre;Santa Eulalia- La Torre;Santa;Eulalia-;2;Female;
-Grupo Eulalia;Grupo Eulalia;Grupo;Eulalia;2;Female;
+Calle La Melissa;La Melissa;La;Melissa;2;Female;
 Calle Maria Isabel;Maria Isabel;Maria;Isabel;2;Female;
 Calle La Claudia;La Claudia;La;Claudia;2;Female;
+Calle La Soledad;La Soledad;La;Soledad;2;Female;
 La matilde;La matilde;La;matilde;2;Female;
 Calle Santa Marta;Santa Marta;Santa;Marta;2;Female;https://es.wikipedia.org/wiki/Marta_de_Betania
 Calle Venus;Venus;Venus;;2;Female;https://es.wikipedia.org/wiki/Venus_(mitolog%C3%ADa)
+Calle La Virgen;La Virgen;La;Virgen;2;Female;https://es.wikipedia.org/wiki/Virgen_Maria
 Avenida La Aurora;La Aurora;La;Aurora;2;Female;
-Calle La Gitana;La Gitana;La;Gitana;2;Female;
-Calle La Julieta;La Julieta;La;Julieta;2;Female;
-Calle Mina;Mina;Mina;;2;Female;https://es.wikipedia.org/wiki/Mina_Myoui
-Avenida Elena Lahmann de Rohrmoser;Elena Lahmann Rohrmoser;Elena;Lahmann;2;Female;
-Calle Delfina;Delfina;Delfina;;2;Female;
-Oficentro La Virgen;Oficentro La Virgen;Oficentro;La;2;Female;https://es.wikipedia.org/wiki/Virgen_Maria
-Calle Isabel Argüello;Isabel Argüello;Isabel;Argüello;2;Female;
-Calle Vica León;Vica León;Vica;León;2;Female;
-Condominio Les Tiffany;Condominio Les Tiffany;Condominio;Les;2;Female;
 Calle Tranquilino Sáenz Flores;Tranquilino Sáenz Flores;Tranquilino;Sáenz;2;Male;
-Boulevard Alcides Jiménez Rojas;Alcides Jiménez Rojas;Alcides;Jiménez;2;Male;
-Calle Monte Cristo;Monte Cristo;Monte;Cristo;2;Male;
-Calle San Fernando;San Fernando;San;Fernando;-2;Male;
-Calle San Luis;San Luis;San;Luis;-2;Male;
-Ricardo Quesada Cabezas;Ricardo Quesada Cabezas;Ricardo;Quesada;-2;Male;
-Guillermo Quesada Rodríguez;Guillermo Quesada Rodríguez;Guillermo;Quesada;-2;Male;
 Calle San Miguel;San Miguel;San;Miguel;-2;Male;
+Calle Alfaro;Alfaro;Alfaro;;-2;Male;
 Calle San Isidro;San Isidro;San;Isidro;-2;Male;
 Calle San José;San José;San;José;-2;Male;
 Calle San Juan;San Juan;San;Juan;-2;Male;
 Calle Santiago Alvarado;Santiago Alvarado;Santiago;Alvarado;-2;Male;
-Calle León;León;León;;-2;Male;
-Radial San Ramón;Radial San Ramón;Radial;San;-2;Male;
-Calle Uriel González;Uriel González;Uriel;González;-2;Male;
-Calle Efraín Zamora;Efraín Zamora;Efraín;Zamora;-2;Male;
-Calle San Rafael;San Rafael;San;Rafael;-2;Male;
-Calle Jerónimo Cubero;Jerónimo Cubero;Jerónimo;Cubero;-2;Male;
-Radial Armando Kooper Vega;Radial Armando Kooper Vega;Radial;Armando;-2;Male;
-Calle Amado Campos;Amado Campos;Amado;Campos;-2;Male;
-Calle Central - Juan Vega;Central - Juan Vega;Central;-;-2;Male;
-Avenida Central - León Cortés Castro;Central - León Cortés Castro;Central;-;-2;Male;
-Puente Rafael Iglesias;Rafael Iglesias;Rafael;Iglesias;-2;Male;
-Calle Valerio;Valerio;Valerio;;-2;Male;
-Calle Abel Rodríguez;Abel Rodríguez;Abel;Rodríguez;-2;Male;
-Calle Maurilio Ramos;Maurilio Ramos;Maurilio;Ramos;-2;Male;
 Calle San Gerardo;San Gerardo;San;Gerardo;-2;Male;
+Calle Los Pérez;Los Pérez;Los;Pérez;-2;Male;
 Calle San Pío;San Pío;San;Pío;-2;Male;
 Tomás Guardia;Tomás Guardia;Tomás;Guardia;-2;Male;
 Avenida Antonio Arroyo;Antonio Arroyo;Antonio;Arroyo;-2;Male;
@@ -85,43 +48,30 @@ Calle Jesús Ocaña;Jesús Ocaña;Jesús;Ocaña;-2;Male;
 Anastasio Alfaro;Anastasio Alfaro;Anastasio;Alfaro;-2;Male;
 Calle Anastasio Alfaro;Anastasio Alfaro;Anastasio;Alfaro;-2;Male;
 Avenida Alfaro Ruíz;Alfaro Ruíz;Alfaro;Ruíz;-2;Male;
+Calle San Ramón;San Ramón;San;Ramón;-2;Male;
+Calle el Urbano;el Urbano;el;Urbano;-2;Male;
 Radial Francisco J. Orlich;Radial Francisco J. Orlich;Radial;Francisco;-2;Male;
 Calle San Antonio;San Antonio;San;Antonio;-2;Male;
 Radial San Antonio;Radial San Antonio;Radial;San;-2;Male;
-Calle San Peter;San Peter;San;Peter;-2;Male;
-Calle Cosme;Cosme;Cosme;;-2;Male;
-Calle Esteban;Esteban;Esteban;;-2;Male;
-Calle San Marco;San Marco;San;Marco;-2;Male;
-Calle Ross;Ross;Ross;;-2;Male;
-Avenida Central - Juan Manuel López del Corral;Juan Manuel López Corral;Juan;López;-2;Male;
+Avenida Central - Juan Manuel López del Corral;Central - Juan Manuel López Corral;Central;-;-2;Male;
 Calle Fabio Molina;Fabio Molina;Fabio;Molina;-2;Male;
+Calle Benjamín Solórzano;Benjamín Solórzano;Benjamín;Solórzano;-2;Male;
+Calle Pérez;Pérez;Pérez;;-2;Male;
 Calle Joaquín Arias;Joaquín Arias;Joaquín;Arias;-2;Male;
 Puente Francisco J. Orlich;Francisco J. Orlich;Francisco;J.;-2;Male;
 Calle San Roque;San Roque;San;Roque;-2;Male;
-Calle Urbanización Benjamin;Urbanización Benjamin;Benjamin;;-2;Male;
+Calle Urbanización Benjamin;Urbanización Benjamin;Urbanización;Benjamin;-2;Male;
 Calle Marcos Víquez;Marcos Víquez;Marcos;Víquez;-2;Male;
 Calle José Muñoz;José Muñoz;José;Muñoz;-2;Male;
 Calle Wilson Víquez;Wilson Víquez;Wilson;Víquez;-2;Male;
 Calle Vidal;Vidal;Vidal;;-2;Male;
 Calle Saturno;Saturno;Saturno;;-2;Male;
-Hacienda San Agustín;San Agustín;San;Agustín;-2;Male;
+Calle El Progreso;El Progreso;El;Progreso;-2;Male;
 Avenida Cristobal;Cristobal;Cristobal;;-2;Male;
 Residencial Amaranto;Amaranto;Amaranto;;-2;Male;
 Avenida William H. Taft;William H. Taft;William;H.;-2;Male;
-Calle Rubén Darío;Rubén Darío;Rubén;Darío;-2;Male;
 Avenida Luis R. Flores;Luis R. Flores;Luis;R.;-2;Male;
 Calle Omar Dengo Guerrero;Omar Dengo Guerrero;Omar;Dengo;-2;Male;
 Calle Manuel Benavides R.;Manuel Benavides R.;Manuel;Benavides;-2;Male;
 Calle Pedro Henríquez Ureña;Pedro Henríquez Ureña;Pedro;Henríquez;-2;Male;
 Calle Don Tito;Don Tito;Don;Tito;-2;Male;
-Calle Marcial Aguiluz;Marcial Aguiluz;Marcial;Aguiluz;-2;Male;
-Puente Alfredo González Flores;Alfredo González Flores;Alfredo;González;-2;Male;
-Rafael Barroeta;Rafael Barroeta;Rafael;Barroeta;-2;Male;
-Calle León Cortés;León Cortés;León;Cortés;-2;Male;
-Boulevard Ernesto Rohrmoser;Ernesto Rohrmoser;Ernesto;Rohrmoser;-2;Male;
-Alexander Von Humboldt;Alexander Von Humboldt;Alexander;Von;-2;Male;
-Puente Juan Pablo II;Juan Pablo II;Juan;Pablo;-2;Male;
-Calle Perú;Perú;Perú;;-2;Male;
-Calle Noé Marín;Noé Marín;Noé;Marín;-2;Male;
-Calle Jesús León;Jesús León;Jesús;León;-2;Male;
-Calle Francisco Corrales;Francisco Corrales;Francisco;Corrales;-2;Male;
